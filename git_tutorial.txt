@@ -7,3 +7,7 @@ git commit -m "mensaje"   - lo guardas local con el mensaje
 git status                - revisas que se haya subido
 
 esta todo en los apuntes del moodle
+
+git remote add origin (direccion del repositorio)
+git branch -M main
+git push -u origin main
